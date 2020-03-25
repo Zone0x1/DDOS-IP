@@ -18,4 +18,4 @@ chmod +x ddos-IP.py
 
 python ddos-IP.py
 
-ScreenShot
+
